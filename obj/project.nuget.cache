@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5igJ4qX2YA=",
+  "success": true,
+  "projectFilePath": "D:\\source\\uresapp\\uresapp\\uresapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reken\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.32\\microsoft.aspnetcore.authentication.negotiate.6.0.32.nupkg.sha512",
+    "C:\\Users\\reken\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.32\\microsoft.aspnetcore.connections.abstractions.6.0.32.nupkg.sha512",
+    "C:\\Users\\reken\\.nuget\\packages\\microsoft.extensions.features\\6.0.32\\microsoft.extensions.features.6.0.32.nupkg.sha512",
+    "C:\\Users\\reken\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\reken\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
+}

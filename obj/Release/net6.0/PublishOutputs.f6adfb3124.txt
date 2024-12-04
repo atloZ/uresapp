@@ -1,0 +1,15 @@
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\uresapp.exe
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\uresapp.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\uresapp.deps.json
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\uresapp.runtimeconfig.json
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\uresapp.pdb
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.Negotiate.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Features.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\System.DirectoryServices.Protocols.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\System.IO.Pipelines.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+D:\source\uresapp\uresapp\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
